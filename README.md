@@ -175,7 +175,7 @@ This project is for educational purposes.
 ## 👨‍💻 Author
 
 **Krishan Kumar**
-Deep Learning & Cybersecurity Enthusiast
+AI/Ml & Cybersecurity Enthusiast
 
 ---
 
