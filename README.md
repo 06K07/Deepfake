@@ -86,7 +86,7 @@ The model is trained using:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/deepfake-detection.git
+git clone https://github.com/06K07/Deepfake.git
 cd deepfake-detection
 ```
 
