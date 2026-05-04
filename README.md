@@ -174,7 +174,7 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-**Krishan Kumar**
+**Krishan Kumar,Lovish Baweja & Yusuf**
 AI/Ml & Cybersecurity Enthusiast
 
 ---
