@@ -1,0 +1,8 @@
+real/
+fake/
+data/
+*.pth
+uploads/
+__pycache__/
+*.pycreal_vs_fakes/
+*.csv
